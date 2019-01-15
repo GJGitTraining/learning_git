@@ -37,23 +37,24 @@ We are first going to demonstrate `Git` on a simple `.txt` file. **Paul** will t
 
 1. What is `Git`? Why do you want to (should) use it? Using `Git` for your personal projects and collaborative projects.
 2. What is `GitHub` and `Bitbucket` and how they complement `Git`.
-3. Cloning remote repository on your machine - `git clone`
-4. Creating a new file and adding to staging index - `git status`, `git diff`, `git add`
-5. Adding to commit history - `git commit`
-6. Pushing your changes to remote repository - `git push`
-7. Reading the commit log - `git log`, `GitHub`
+3. Little sneak peek into `TLL` and `Git`/`Bitbucket` 
+4. Cloning remote repository on your machine, remote vs. local - `git clone`
+5. Creating a new file and adding to staging index - `git status`, `git diff`, `git add`
+6. Adding to commit history - `git commit`
+7. Pushing your changes to remote repository - `git push`
+8. Reading the commit log - `git log`, `GitHub`
 
 
 This part of the course will be done in pairs
 
-8. Creating own branches. Why branching and what is MASTER branch - `git checkout -b feature_branch`
-9. Working on different files - `git add`, `git commit`, `git pull`, `git push`, `git branch`
-10. Working on the same file - no conflict
-11. Working on the same file - creating conflict and solving it.
-12. Merging all branches to the MASTER - fixing conflicts
+9. Creating own branches. Why branching and what is MASTER branch - `git checkout -b feature_branch`
+10. Working on different files - `git add`, `git commit`, `git pull`, `git push`, `git branch`
+11. Working on the same file - no conflict
+12. Working on the same file - creating conflict and solving it.
+13. Merging all branches to the MASTER - fixing conflicts
 
 The last part will be related to the use of `Git` in connection with `SAS` projects
 
-13. Connecting to SAS server via PuTTY
-14. Saving `SAS` scripts to the file as `.sas` files.
-15. Version control with `Git`
+14. Connecting to SAS server via PuTTY
+15. Saving `SAS` scripts to the file as `.sas` files.
+16. Version control with `Git`
