@@ -45,6 +45,7 @@ We are first going to demonstrate `Git` on a simple `.txt` file. **Paul** will t
 
 
 This part of the course will be done in pairs
+
 8. Creating own branches. Why branching and what is MASTER branch - `git checkout -b feature_branch`
 9. Working on different files - `git add`, `git commit`, `git pull`, `git push`, `git branch`
 10. Working on the same file - no conflict
@@ -52,6 +53,7 @@ This part of the course will be done in pairs
 12. Merging all branches to the MASTER - fixing conflicts
 
 The last part will be related to the use of `Git` in connection with `SAS` projects
+
 13. Connecting to SAS server via PuTTY
 14. Saving `SAS` scripts to the file as `.sas` files.
 15. Version control with `Git`
