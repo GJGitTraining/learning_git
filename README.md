@@ -16,3 +16,42 @@ Please follow intructions here: [Environment Variables](http://bi-portalen/Analy
 
 ## Create GitHub account
 Go to https://github.com/ and sign up for GitHub.
+
+# Course outline
+
+This course is meant to be an introductory course to the world of `Git`. Primary audience are those who are either completely new to `Git`, never heard of it before, or just want to expand their basic knowledge of `Git`.
+
+For those who are regularly using `Git` in their projects and will be interested, we might give a follow-up course (merging vs. rebasing, checking out, resetting, reverting, squashing, stashing, pull requests, reviews ...) if there is an interest.
+
+## Language of instruction
+
+This course is given in English, but feel free to ask questions in Norwegian.
+
+## Programming language
+
+To avoid confusion, `Git` is a version-control system (VCS), so it can be used with any programming language. Wheher you are using `C++`, `Python`, `R`, `SAS` or any other language of your preference, `Git` can help you to have control over your codebase.
+
+We are first going to demonstrate `Git` on a simple `.txt` file. **Paul** will then guide you through the steps needed for incorporating usage of `Git` in your `SAS` projects (therefore you need to setup PuTTY first).
+
+## Agenda
+
+1. What is `Git`? Why do you want to (should) use it? Using `Git` for your personal projects and collaborative projects.
+2. What is `GitHub` and `Bitbucket` and how they complement `Git`.
+3. Cloning remote repository on your machine - `git clone`
+4. Creating a new file and adding to staging index - `git status`, `git diff`, `git add`
+5. Adding to commit history - `git commit`
+6. Pushing your changes to remote repository - `git push`
+7. Reading the commit log - `git log`, `GitHub`
+
+
+This part of the course will be done in pairs
+8. Creating own branches. Why branching and what is MASTER branch - `git checkout -b feature_branch`
+9. Working on different files - `git add`, `git commit`, `git pull`, `git push`, `git branch`
+10. Working on the same file - no conflict
+11. Working on the same file - creating conflict and solving it.
+12. Merging all branches to the MASTER - fixing conflicts
+
+The last part will be related to the use of `Git` in connection with `SAS` projects
+13. Connecting to SAS server via PuTTY
+14. Saving `SAS` scripts to the file as `.sas` files.
+15. Version control with `Git`
