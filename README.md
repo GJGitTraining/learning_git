@@ -14,6 +14,8 @@ Also give appropriate name under **Saved Sessions**
 ## Setup Windows Environment Variables (PROXY)
 Please follow intructions here: [Environment Variables](http://bi-portalen/Analyseplattform/AnalyseWiki/Sider/git%20-%20connecting%20via%20proxy.aspx)
 
+Please follow just steps in paragraph for Windows!
+
 ## Create GitHub account
 Go to https://github.com/ and sign up for GitHub.
 
