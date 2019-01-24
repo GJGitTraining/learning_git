@@ -1,0 +1,8 @@
+# Python function
+def printName(firstName = "Paul", secondName = "Liley"):
+	print("Your full name is: %s %s" % (secondName, secondName))
+
+# R function
+printName <- function(firstName = "Daniel", secondName = "Piacek"){
+	print(paste("Your full name is:", firstName, secondName))
+}
