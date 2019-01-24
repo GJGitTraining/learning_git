@@ -43,22 +43,23 @@ We are first going to demonstrate `Git` on a simple `.txt` file. **Paul** will t
 2. What is `GitHub` and `Bitbucket` and how they complement `Git`.
 3. Little sneak peek into `TLL` and `Git`/`Bitbucket` 
 4. Cloning remote repository on your machine, remote vs. local - `git clone`
-5. Creating a new file and adding to staging index - `git status`, `git diff`, `git add`
-6. Adding to commit history - `git commit`
-7. Pushing your changes to remote repository - `git push`
-8. Reading the commit log - `git log`, `GitHub`
+5. Changing git pull setting for cleaner history - `git config --global pull.rebase true` 
+6. Creating a new file and adding to staging index - `git status`, `git diff`, `git add`
+7. Adding to commit history - `git commit`
+8. Pushing your changes to remote repository - `git push`
+9. Reading the commit log - `git log`, `GitHub`
 
 
 This part of the course will be done in pairs
 
-9. Creating own branches. Why branching and what is MASTER branch - `git checkout -b feature_branch`
-10. Working on different files - `git add`, `git commit`, `git pull`, `git push`, `git branch`
-11. Working on the same file - no conflict
-12. Working on the same file - creating conflict and solving it.
-13. Merging all branches to the MASTER - fixing conflicts
+10. Creating own branches. Why branching and what is MASTER branch - `git checkout -b feature_branch`
+11. Working on different files - `git add`, `git commit`, `git pull`, `git push`, `git branch`
+12. Working on the same file - no conflict
+13. Working on the same file - creating conflict and solving it.
+14. Merging all branches to the MASTER - fixing conflicts
 
 The last part will be related to the use of `Git` in connection with `SAS` projects
 
-14. Connecting to SAS server via PuTTY
-15. Saving `SAS` scripts to the file as `.sas` files.
-16. Version control with `Git`
+15. Connecting to SAS server via PuTTY
+16. Saving `SAS` scripts to the file as `.sas` files.
+17. Version control with `Git`
