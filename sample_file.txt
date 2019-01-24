@@ -3,6 +3,6 @@ def printName(firstName = "Paul", secondName = "Liley"):
 	print("Your full name is: %s %s" % (firstName, secondName))
 
 # R function
-printName <- function(firstName = "Daniel", secondName = "Piacek"){
+printName <- function(firstName = "Frode", secondName = "Viste"){
 	print(paste("Your full name is:", firstName, secondName))
 }
