@@ -4,7 +4,7 @@ def printName(firstName = "Mirjana", secondName = "Gazica"):
 
 # R function
 printName <- function(firstName = "Daniel", secondName = "Piacek"){
-	print(pasta("Your full name is:", firstName, secondName))
+	print(pasta("Your full name is:", firstName, secondName))jegerfeil
 }
 
 
