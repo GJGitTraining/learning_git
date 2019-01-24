@@ -19,6 +19,8 @@ Please follow just steps in paragraph for Windows!
 ## Create GitHub account
 Go to https://github.com/ and sign up for GitHub.
 
+I recommend using Google Chrome (or Firefox) instead of IE.
+
 # Course outline
 
 This course is meant to be an introductory course to the world of `Git`. Primary audience are those who are either completely new to `Git`, never heard of it before, or just want to expand their basic knowledge of `Git`.
