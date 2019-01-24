@@ -3,8 +3,7 @@ def printName(firstName = "Mirjana", secondName = "Gazica"):
 	print("Your full name is: %s %s" % (firstName, secondName))
 
 # R function
-printName <- function(firstName = "Daniel", secondName = "Piacek"){
-	print(pasta("Your full name is:", firstName, secondName))jegerfeil
-}
+printName <- function(firstName = "Mirjana", secondName = "Piacek"){
+	print(pasta("Your full name is:", firstName, secondName))}
 
 
