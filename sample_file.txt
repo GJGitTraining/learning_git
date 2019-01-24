@@ -1,5 +1,5 @@
 # Python function
-def printName(firstName = "Paul", secondName = "Liley"):
+def printName(firstName = "Eivind", secondName = "Rimstad"):
 	print("Your full name is: %s %s" % (firstName, secondName))
 
 # R function
